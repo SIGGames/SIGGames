@@ -46,5 +46,3 @@ git push origin <branch-name>
 Once you have pushed your changes to your forked repository, you can create a pull request to merge your changes into the main repository. To do this, click the "New pull request" button on the main repository page.
 
 That's it! You have successfully contributed to a SIGGamess project. Thank you for your contribution!
-[]: # (END) README.md
-[]: # (BEGIN) profile/CONTRIBUTING.md
