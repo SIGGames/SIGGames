@@ -1,4 +1,4 @@
-# How to contribute to SIGGames projecs
+# How to contribute to SIGGames projects
 
 Contributing to SIGGames projects is easy and fun! You can contribute in many ways, including code, documentation, and issue triage. Here are some ways you can contribute:
 
