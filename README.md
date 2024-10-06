@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.siggames.cat/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/883d0530-8003-4c77-97ae-beb1e7f75f4a" alt="SIGgames Banner" />
+    <img src="./img/Banner_Wite_BG.jpg" alt="SIGgames Banner" />
   </a>
 </p>
 
@@ -13,13 +13,3 @@ We are always looking for new contributors to help us improve our projects. If y
 ## Contact
 
 If you have any questions, please feel free to contact us at [contact@siggames.com](mailto:contact@siggames.com).
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
--->
